@@ -5,47 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41bd1c48-a620-41e1-ba6d-6f62839f1cc5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dynamic-datasource-autoconfigure-exmaple.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/club/niblet/www/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/club/niblet/www/controller/BizController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/club/niblet/www/mapper/OrderMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/club/niblet/www/mapper/StoreMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/club/niblet/www/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/club/niblet/www/model/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/club/niblet/www/model/Store.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/club/niblet/www/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/club/niblet/www/service/BizService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/club/niblet/www/service/impl/BizServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/logback-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/OrderMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/StoreMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/club/niblet/www/BizServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/club/niblet/www/Application.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/club/niblet/www/controller/BizController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/club/niblet/www/mapper/OrderMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/club/niblet/www/mapper/StoreMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/club/niblet/www/mapper/UserMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/club/niblet/www/model/Order.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/club/niblet/www/model/Store.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/club/niblet/www/model/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/club/niblet/www/service/BizService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/club/niblet/www/service/impl/BizServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/logback-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/OrderMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/StoreMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/club/niblet/www/BizServiceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +14,22 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="a945bbd6-ead8-460c-8b17-c81956067d26" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\Git\repository\github\dynamic-datasource-autoconfigure-exmaple\.idea" />
+      </set>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -82,7 +58,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/init" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -93,6 +70,7 @@
       <recent name="club.niblet.www" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Git\repository\github\dynamic-datasource-autoconfigure-exmaple\src\main\resources\init" />
       <recent name="D:\Git\repository\github\dynamic-datasource-autoconfigure-exmaple\src\main\resources" />
       <recent name="D:\Git\repository\github\dynamic-datasource-autoconfigure-exmaple\src\main\java\club\niblet\www" />
     </key>
@@ -134,52 +112,88 @@
       <option name="presentableId" value="Default" />
       <updated>1577533151649</updated>
     </task>
+    <task id="LOCAL-00001" summary="初始化示例项目">
+      <created>1577536353483</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577536353483</updated>
+    </task>
+    <task id="LOCAL-00002" summary="更新日志文件输出路径">
+      <created>1577536618569</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577536618569</updated>
+    </task>
+    <task id="LOCAL-00003" summary="添加数据库脚本">
+      <created>1577536896164</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577536896164</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初始化示例项目" />
+    <MESSAGE value="更新日志文件输出路径" />
+    <MESSAGE value="添加数据库脚本" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加数据库脚本" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="179" key="#Project_Structure" timestamp="1577533572483">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="179" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1577533572483" />
+    <state x="420" y="112" key="CommitChangelistDialog2" timestamp="1577536894205">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="420" y="112" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577536894205" />
     <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1577536183567">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1577536183567" />
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1577535569782">
+    <state x="808" y="444" key="Github.Dialog.Accounts.Choose" timestamp="1577536448761">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577535569782" />
-    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1577535569781">
+    <state x="808" y="444" key="Github.Dialog.Accounts.Choose/0.0.1920.1040@0.0.1920.1040" timestamp="1577536448761" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1577537751813">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577535569781" />
-    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1577535569781">
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577537751813" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1577537751813">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577535569781" />
-    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1577535569782">
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577537751813" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1577537751813">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577535569782" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1577535250064">
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577537751813" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1577537751813">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577535250064" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1577535250064">
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577537751813" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1577537751814">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577535250064" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1577535250063">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577537751814" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1577537751813">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577535250063" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1577535250064">
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577537751813" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1577537751813">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577535250064" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1577536319793">
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577537751813" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1577537751813">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1577536319793" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577537751813" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1577536897853">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1577536897853" />
   </component>
 </project>

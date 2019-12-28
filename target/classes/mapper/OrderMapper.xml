@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
-<mapper namespace="club.niblet.www.mapper.OrderMapper">
-
-    <select id="findOrderById" parameterType="int" resultType="club.niblet.www.model.Order">
-        select * from t_order where user_id = #{userId};
-    </select>
-
-</mapper>
