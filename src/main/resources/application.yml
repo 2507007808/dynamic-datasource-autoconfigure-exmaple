@@ -1,0 +1,41 @@
+server:
+  port: 80
+spring:
+  datasource:
+    dynamic:
+      default:
+        url: jdbc:mysql://192.168.100.100:3306/user?useUnicode=true&characterEncoding=utf-8
+        username: dev
+        password: root
+        driver-class-name: org.mariadb.jdbc.Driver
+        initialSize: 10 #初始化连接池大小
+        minIdle: 10 #初始化最小连接池数量
+        maxActive: 100 #初始化最大连接池数量
+        maxWait: 6000 #配置获取连接等待超时的时间
+        timeBetweenEvictionRunsMills: 6000 #配置间隔多久才进行一次检测，检测需要关闭的空闲连接，单位是毫秒
+        minEvictableIdleTimeMillis: 30000 #配置一个连接在池中最小生存的时间，单位是毫秒
+        validationQuery: SELECT 1 #测试连接
+      order:
+        url: jdbc:mysql://192.168.100.101:3306/order?useUnicode=true&characterEncoding=utf-8
+        username: dev
+        password: root
+        driver-class-name: org.mariadb.jdbc.Driver
+        initialSize: 10 #初始化连接池大小
+        minIdle: 10 #初始化最小连接池数量
+        maxActive: 100 #初始化最大连接池数量
+        maxWait: 6000 #配置获取连接等待超时的时间
+        timeBetweenEvictionRunsMills: 6000 #配置间隔多久才进行一次检测，检测需要关闭的空闲连接，单位是毫秒
+        minEvictableIdleTimeMillis: 30000 #配置一个连接在池中最小生存的时间，单位是毫秒
+        validationQuery: SELECT 1 #测试连接
+      store:
+        url: jdbc:mysql://192.168.100.102:3306/store?useUnicode=true&characterEncoding=utf-8
+        username: dev
+        password: root
+        driver-class-name: org.mariadb.jdbc.Driver
+        initialSize: 10 #初始化连接池大小
+        minIdle: 10 #初始化最小连接池数量
+        maxActive: 100 #初始化最大连接池数量
+        maxWait: 6000 #配置获取连接等待超时的时间
+        timeBetweenEvictionRunsMills: 6000 #配置间隔多久才进行一次检测，检测需要关闭的空闲连接，单位是毫秒
+        minEvictableIdleTimeMillis: 30000 #配置一个连接在池中最小生存的时间，单位是毫秒
+        validationQuery: SELECT 1 #测试连接

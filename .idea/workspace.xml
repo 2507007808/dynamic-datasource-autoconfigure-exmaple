@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="41bd1c48-a620-41e1-ba6d-6f62839f1cc5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dynamic-datasource-autoconfigure-exmaple.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/club/niblet/www/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/club/niblet/www/controller/BizController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/club/niblet/www/mapper/OrderMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/club/niblet/www/mapper/StoreMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/club/niblet/www/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/club/niblet/www/model/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/club/niblet/www/model/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/club/niblet/www/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/club/niblet/www/service/BizService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/club/niblet/www/service/impl/BizServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/logback-spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/OrderMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/StoreMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/club/niblet/www/BizServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/club/niblet/www/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/club/niblet/www/controller/BizController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/club/niblet/www/mapper/OrderMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/club/niblet/www/mapper/StoreMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/club/niblet/www/mapper/UserMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/club/niblet/www/model/Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/club/niblet/www/model/Store.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/club/niblet/www/model/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/club/niblet/www/service/BizService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/club/niblet/www/service/impl/BizServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/logback-spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/OrderMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/StoreMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/club/niblet/www/BizServiceTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Maven" />
+        <option name="userSettingsFile" value="D:\Maven\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="#JAVA_HOME" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+  </component>
+  <component name="ProjectId" id="1VbsVOU4SYxFXc1MatmX60i081D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="club.niblet.www" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Git\repository\github\dynamic-datasource-autoconfigure-exmaple\src\main\resources" />
+      <recent name="D:\Git\repository\github\dynamic-datasource-autoconfigure-exmaple\src\main\java\club\niblet\www" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="BizServiceTest.findUserByName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dynamic-datasource-autoconfigure-exmaple" />
+      <option name="PACKAGE_NAME" value="club.niblet.www" />
+      <option name="MAIN_CLASS_NAME" value="club.niblet.www.BizServiceTest" />
+      <option name="METHOD_NAME" value="findUserByName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BizServiceTest.findUserByName" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41bd1c48-a620-41e1-ba6d-6f62839f1cc5" name="Default Changelist" comment="" />
+      <created>1577533151649</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577533151649</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="179" key="#Project_Structure" timestamp="1577533572483">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1577533572483" />
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1577536183567">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1577536183567" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1577535569782">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577535569782" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1577535569781">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577535569781" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1577535569781">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577535569781" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1577535569782">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577535569782" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1577535250064">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577535250064" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1577535250064">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577535250064" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1577535250063">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577535250063" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1577535250064">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577535250064" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1577536319793">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1577536319793" />
+  </component>
+</project>
